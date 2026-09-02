@@ -1,0 +1,735 @@
+[
+  {
+    "pedido_id": 7,
+    "cliente_id": 53,
+    "produto_id": 48,
+    "quantidade": -8,
+    "data_pedido": "2026-07-10",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 8,
+    "cliente_id": 68,
+    "produto_id": 901,
+    "quantidade": 3,
+    "data_pedido": "2026-05-14",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 15,
+    "cliente_id": 8169,
+    "produto_id": 22,
+    "quantidade": 4,
+    "data_pedido": "2026-05-10",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 21,
+    "cliente_id": 50,
+    "produto_id": 24,
+    "quantidade": -8,
+    "data_pedido": "2026-07-16",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 43,
+    "cliente_id": 72,
+    "produto_id": 8447,
+    "quantidade": 1,
+    "data_pedido": "2026-03-06",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 45,
+    "cliente_id": 59,
+    "produto_id": 43,
+    "quantidade": -1,
+    "data_pedido": "2026-04-27",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 63,
+    "cliente_id": 98,
+    "produto_id": 18,
+    "quantidade": -7,
+    "data_pedido": "2026-06-02",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 87,
+    "cliente_id": 84,
+    "produto_id": 3285,
+    "quantidade": 3,
+    "data_pedido": "2026-03-25",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 93,
+    "cliente_id": 29,
+    "produto_id": 49,
+    "quantidade": -6,
+    "data_pedido": "2026-06-12",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 108,
+    "cliente_id": 2886,
+    "produto_id": 50,
+    "quantidade": 4,
+    "data_pedido": "2026-07-23",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 116,
+    "cliente_id": 7534,
+    "produto_id": 42,
+    "quantidade": 4,
+    "data_pedido": "2026-08-30",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 117,
+    "cliente_id": 50,
+    "produto_id": 7482,
+    "quantidade": 6,
+    "data_pedido": "2026-08-02",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 133,
+    "cliente_id": 46,
+    "produto_id": 113,
+    "quantidade": -10,
+    "data_pedido": "2026-05-11",
+    "motivos_rejeicao": [
+      "quantidade <= 0",
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 137,
+    "cliente_id": 6471,
+    "produto_id": 8,
+    "quantidade": 2,
+    "data_pedido": "2026-04-16",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 140,
+    "cliente_id": 89,
+    "produto_id": 4841,
+    "quantidade": 3,
+    "data_pedido": "2026-07-04",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 149,
+    "cliente_id": 15,
+    "produto_id": 6345,
+    "quantidade": 9,
+    "data_pedido": "2026-08-12",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 153,
+    "cliente_id": 8476,
+    "produto_id": 21,
+    "quantidade": 10,
+    "data_pedido": "2026-03-27",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 155,
+    "cliente_id": 16,
+    "produto_id": 5048,
+    "quantidade": 6,
+    "data_pedido": "2026-03-29",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 161,
+    "cliente_id": 2509,
+    "produto_id": 42,
+    "quantidade": -2,
+    "data_pedido": "2026-06-11",
+    "motivos_rejeicao": [
+      "quantidade <= 0",
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 168,
+    "cliente_id": 81,
+    "produto_id": 40,
+    "quantidade": -3,
+    "data_pedido": "2026-03-25",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 181,
+    "cliente_id": 64,
+    "produto_id": 30,
+    "quantidade": -1,
+    "data_pedido": "2026-05-08",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 184,
+    "cliente_id": 11,
+    "produto_id": 3122,
+    "quantidade": 2,
+    "data_pedido": "2026-03-08",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 188,
+    "cliente_id": 3300,
+    "produto_id": 14,
+    "quantidade": 5,
+    "data_pedido": "2026-07-11",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 203,
+    "cliente_id": 45,
+    "produto_id": 5893,
+    "quantidade": 1,
+    "data_pedido": "2026-07-07",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 210,
+    "cliente_id": 89,
+    "produto_id": 6458,
+    "quantidade": 7,
+    "data_pedido": "2026-04-04",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 212,
+    "cliente_id": 3655,
+    "produto_id": 9,
+    "quantidade": 8,
+    "data_pedido": "2026-04-04",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 213,
+    "cliente_id": 35,
+    "produto_id": 691,
+    "quantidade": 2,
+    "data_pedido": "2026-04-22",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 215,
+    "cliente_id": 58,
+    "produto_id": 1007,
+    "quantidade": 4,
+    "data_pedido": "2026-05-11",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 218,
+    "cliente_id": 8369,
+    "produto_id": 41,
+    "quantidade": 3,
+    "data_pedido": "2026-06-07",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 221,
+    "cliente_id": 5302,
+    "produto_id": 18,
+    "quantidade": 6,
+    "data_pedido": "2026-06-12",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 223,
+    "cliente_id": 57,
+    "produto_id": 5998,
+    "quantidade": 7,
+    "data_pedido": "2026-05-16",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 238,
+    "cliente_id": 50,
+    "produto_id": 32,
+    "quantidade": -8,
+    "data_pedido": "2026-04-05",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 241,
+    "cliente_id": 61,
+    "produto_id": 9462,
+    "quantidade": 8,
+    "data_pedido": "2026-07-28",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 242,
+    "cliente_id": 2245,
+    "produto_id": 28,
+    "quantidade": 9,
+    "data_pedido": "2026-04-09",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 252,
+    "cliente_id": 30,
+    "produto_id": 6952,
+    "quantidade": 5,
+    "data_pedido": "2026-08-31",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 254,
+    "cliente_id": 71,
+    "produto_id": 30,
+    "quantidade": -8,
+    "data_pedido": "2026-06-28",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 256,
+    "cliente_id": 3369,
+    "produto_id": 17,
+    "quantidade": 10,
+    "data_pedido": "2026-04-15",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 263,
+    "cliente_id": 41,
+    "produto_id": 41,
+    "quantidade": -6,
+    "data_pedido": "2026-08-13",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 267,
+    "cliente_id": 7,
+    "produto_id": 2192,
+    "quantidade": 3,
+    "data_pedido": "2026-06-23",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 269,
+    "cliente_id": 976,
+    "produto_id": 38,
+    "quantidade": 10,
+    "data_pedido": "2026-08-13",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 282,
+    "cliente_id": 4470,
+    "produto_id": 20,
+    "quantidade": 4,
+    "data_pedido": "2026-06-30",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 286,
+    "cliente_id": 57,
+    "produto_id": 42,
+    "quantidade": -5,
+    "data_pedido": "2026-06-05",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 293,
+    "cliente_id": 1642,
+    "produto_id": 31,
+    "quantidade": 10,
+    "data_pedido": "2026-07-21",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 297,
+    "cliente_id": 29,
+    "produto_id": 28,
+    "quantidade": -3,
+    "data_pedido": "2026-06-13",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 298,
+    "cliente_id": 21,
+    "produto_id": 16,
+    "quantidade": -8,
+    "data_pedido": "2026-07-29",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 300,
+    "cliente_id": 83,
+    "produto_id": 8376,
+    "quantidade": 8,
+    "data_pedido": "2026-07-04",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 316,
+    "cliente_id": 84,
+    "produto_id": 1477,
+    "quantidade": 2,
+    "data_pedido": "2026-06-07",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 320,
+    "cliente_id": 6728,
+    "produto_id": 5,
+    "quantidade": 9,
+    "data_pedido": "2026-03-29",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 321,
+    "cliente_id": 68,
+    "produto_id": 4297,
+    "quantidade": 7,
+    "data_pedido": "2026-05-28",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 328,
+    "cliente_id": 4137,
+    "produto_id": 25,
+    "quantidade": 5,
+    "data_pedido": "2026-07-19",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 339,
+    "cliente_id": 29,
+    "produto_id": 34,
+    "quantidade": -8,
+    "data_pedido": "2026-08-21",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 347,
+    "cliente_id": 31,
+    "produto_id": 5731,
+    "quantidade": 4,
+    "data_pedido": "2026-07-12",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 354,
+    "cliente_id": 57,
+    "produto_id": 8309,
+    "quantidade": 9,
+    "data_pedido": "2026-05-04",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 362,
+    "cliente_id": 49,
+    "produto_id": 3386,
+    "quantidade": 3,
+    "data_pedido": "2026-05-01",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 367,
+    "cliente_id": 76,
+    "produto_id": 2066,
+    "quantidade": -4,
+    "data_pedido": "2026-04-01",
+    "motivos_rejeicao": [
+      "quantidade <= 0",
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 372,
+    "cliente_id": 71,
+    "produto_id": 15,
+    "quantidade": -5,
+    "data_pedido": "2026-03-09",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 374,
+    "cliente_id": 18,
+    "produto_id": 2442,
+    "quantidade": 2,
+    "data_pedido": "2026-03-26",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 379,
+    "cliente_id": 7408,
+    "produto_id": 47,
+    "quantidade": 1,
+    "data_pedido": "2026-08-27",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 380,
+    "cliente_id": 95,
+    "produto_id": 4,
+    "quantidade": -2,
+    "data_pedido": "2026-06-26",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 386,
+    "cliente_id": 70,
+    "produto_id": 39,
+    "quantidade": -1,
+    "data_pedido": "2026-06-04",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 389,
+    "cliente_id": 62,
+    "produto_id": 28,
+    "quantidade": -6,
+    "data_pedido": "2026-03-21",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 416,
+    "cliente_id": 23,
+    "produto_id": 8904,
+    "quantidade": 1,
+    "data_pedido": "2026-04-25",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 421,
+    "cliente_id": 75,
+    "produto_id": 9203,
+    "quantidade": 10,
+    "data_pedido": "2026-07-01",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 422,
+    "cliente_id": 7460,
+    "produto_id": 16,
+    "quantidade": 1,
+    "data_pedido": "2026-05-01",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 453,
+    "cliente_id": 71,
+    "produto_id": 6078,
+    "quantidade": 3,
+    "data_pedido": "2026-04-11",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 455,
+    "cliente_id": 1420,
+    "produto_id": 46,
+    "quantidade": 5,
+    "data_pedido": "2026-08-22",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 461,
+    "cliente_id": 1351,
+    "produto_id": 14,
+    "quantidade": 1,
+    "data_pedido": "2026-03-14",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 462,
+    "cliente_id": 51,
+    "produto_id": 1220,
+    "quantidade": 9,
+    "data_pedido": "2026-08-20",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 469,
+    "cliente_id": 1869,
+    "produto_id": 11,
+    "quantidade": 1,
+    "data_pedido": "2026-06-01",
+    "motivos_rejeicao": [
+      "cliente_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 473,
+    "cliente_id": 97,
+    "produto_id": 6099,
+    "quantidade": 6,
+    "data_pedido": "2026-04-30",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 479,
+    "cliente_id": 6,
+    "produto_id": 5182,
+    "quantidade": 4,
+    "data_pedido": "2026-08-31",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  },
+  {
+    "pedido_id": 490,
+    "cliente_id": 66,
+    "produto_id": 7,
+    "quantidade": -7,
+    "data_pedido": "2026-08-23",
+    "motivos_rejeicao": [
+      "quantidade <= 0"
+    ]
+  },
+  {
+    "pedido_id": 491,
+    "cliente_id": 47,
+    "produto_id": 6488,
+    "quantidade": 3,
+    "data_pedido": "2026-08-10",
+    "motivos_rejeicao": [
+      "produto_id inexistente"
+    ]
+  }
+]

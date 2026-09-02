@@ -1,0 +1,101 @@
+cliente_id,nome,cidade,estado
+1,José Novaes,Campos de da Costa,RJ
+2,Bento Costa,Novais,DF
+3,Carlos Eduardo Cirino,Marques,MG
+4,José da Conceição,Oliveira de Camargo,MG
+5,Dra. Luana da Mota,Gonçalves,CE
+6,Maitê Machado,da Rosa,CE
+7,Heloisa Mendes,Rios do Campo,CE
+8,Antonella Borges,Pacheco de Monteiro,SP
+9,Alexia Fonseca,da Cunha,SP
+10,Sra. Melina Moura,Vargas,SP
+11,Ana Sophia Rios,Sá,GO
+12,Isaac Rezende,Correia,SP
+13,Lívia Camargo,Pinto da Mata,PE
+14,Théo Costela,Aparecida,BA
+15,Noah Cunha,Leão do Galho,RJ
+16,Maitê da Mata,Pires,PR
+17,Pedro Azevedo,Cavalcanti de Mendonça,SP
+18,Rafaela Cavalcanti,Silveira,SC
+19,Sr. Apollo Gomes,Araújo,PR
+20,Ísis Melo,Araújo,BA
+21,Ana Julia Sampaio,Mendes do Galho,RJ
+22,Olivia Rios,Cavalcante de das Neves,DF
+23,Kevin das Neves,Alves do Amparo,SP
+24,Alexia Leão,Rezende,SP
+25,Maria Cecília Duarte,Mendonça de Duarte,RS
+26,Augusto Farias,Cardoso de Peixoto,DF
+27,Júlia Sousa,Almeida do Norte,CE
+28,Sr. Augusto Barbosa,Farias Verde,PE
+29,Bella Souza,Caldeira,GO
+30,Theodoro Novais,Almeida das Flores,RJ
+31,Davi Luiz da Costa,Oliveira do Norte,DF
+32,Maria Cecília Barros,Viana da Mata,GO
+33,Maria Vitória Porto,Moraes do Amparo,RJ
+34,Henry Gabriel Fonseca,Câmara,BA
+35,Maria Luísa da Luz,Azevedo,BA
+36,Dr. Ian Barbosa,Machado,DF
+37,Maria Fernanda Correia,da Rosa,MG
+38,Dra. Raquel Carvalho,Sousa,PR
+39,Ana Vitória Albuquerque,Casa Grande de Pires,PE
+40,Ravi Lucca Câmara,Duarte,CE
+41,Theodoro Andrade,Cirino do Oeste,SC
+42,Sra. Eduarda Casa Grande,Gomes de Silva,SP
+43,Júlia da Rocha,Cirino de Costela,PR
+44,Dr. João Guilherme Cavalcanti,Novaes das Flores,CE
+45,Emanuella Sales,Sampaio de Sá,SC
+46,Sra. Ana Vitória da Rocha,Gonçalves,RS
+47,Benicio Almeida,Albuquerque,RJ
+48,Davi Miguel Nogueira,Mendes,GO
+49,Kamilly Correia,Camargo,CE
+50,Yan Garcia,Pires Grande,DF
+51,Sr. Davi Lucas Sales,da Costa dos Dourados,CE
+52,Ana Beatriz Azevedo,da Rosa da Serra,MG
+53,Anna Liz Moura,Siqueira do Oeste,PE
+54,Luna Moura,Pacheco,BA
+55,Léo Lopes,Caldeira,RJ
+56,Alexandre Aragão,Ramos,BA
+57,Fernanda Silva,Souza,SC
+58,Isadora da Rocha,Gonçalves,RJ
+59,Pedro Azevedo,Aragão do Norte,PR
+60,Eduarda Lopes,Correia dos Dourados,SC
+61,Mariane Correia,Cavalcante,GO
+62,Luana Sampaio,Caldeira,CE
+63,Ágatha Costela,Souza do Sul,DF
+64,Mathias Almeida,da Conceição dos Dourados,GO
+65,Sra. Maria Liz Rodrigues,Pires,GO
+66,Maria Cecília Barbosa,Nogueira,BA
+67,Maria Liz Gonçalves,Macedo de Minas,RS
+68,João Fernandes,Vieira,RS
+69,Manuela da Mata,Oliveira,PR
+70,Noah da Rocha,da Conceição,PE
+71,Ester Pacheco,Martins,BA
+72,Cecilia Rios,Novaes do Norte,SP
+73,Lunna Correia,Campos de Silva,DF
+74,Sra. Clara da Rosa,Sampaio do Norte,BA
+75,Maria Eduarda das Neves,Sales do Oeste,GO
+76,Vinícius Andrade,Fogaça da Mata,SP
+77,Yasmin Albuquerque,Costela,BA
+78,Pedro Henrique Fonseca,Machado do Norte,SP
+79,Léo Cavalcante,Pires,CE
+80,João Gabriel Carvalho,Rios,PE
+81,Thales Camargo,Correia de Minas,MG
+82,Dra. Maria Vitória Cassiano,Montenegro do Norte,PE
+83,Larissa Mendes,Oliveira,CE
+84,Maria Liz Alves,Mendonça,SP
+85,Mateus Vasconcelos,da Mata das Pedras,BA
+86,Mateus Sampaio,Borges,MG
+87,Sr. Luiz Henrique Pereira,Fogaça,BA
+88,Ana Cecília Cavalcanti,Sampaio,PR
+89,Emanuel Brito,Nogueira de Azevedo,PE
+90,José Fernandes,Silva Grande,RS
+91,Larissa Barbosa,Alves,RJ
+92,Sra. Luna Borges,da Costa do Campo,DF
+93,Ana Sophia Câmara,Novais,SC
+94,Mariah Castro,Ribeiro,RS
+95,Gabriela Pastor,Ferreira de da Mota,DF
+96,Heloísa Guerra,Siqueira,RS
+97,Ágatha Pastor,Melo,MG
+98,José Pedro Lima,Ribeiro de Goiás,CE
+99,Mathias da Rocha,Brito de Oliveira,PE
+100,Gustavo Cavalcante,Araújo Alegre,RJ
