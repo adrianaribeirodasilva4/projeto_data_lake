@@ -1,6 +1,6 @@
 # Atividade 2 — Pipeline de Dados com Amazon S3 e Amazon Athena
 
-**Disciplina:** [DATA LAKE, LAKEHOUSES E DATAS MESHES]
+**Disciplina:** DATA LAKE, LAKEHOUSES E DATAS MESHES
 **Professor:** Yuri Menezes
 **Aluna:** Adriana Ribeiro da Silva
 
