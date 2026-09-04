@@ -2,7 +2,7 @@
 
 **Disciplina:** DATA LAKE, LAKEHOUSES E DATAS MESHES
 **Professor:** Yuri Menezes
-**Aluna:** Adriana Ribeiro da Silva
+**Aluna:** Adriana Ribeiro da Silva RA 10775703
 
 ## Objetivo
 
